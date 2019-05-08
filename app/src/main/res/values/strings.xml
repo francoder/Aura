@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aura</string>
+    <string name="refresh">Refresh</string>
+    <string name="save_picture">Save the image</string>
+    <string name="share_image">Share the image</string>
+    <string name="error_url_msg">Error, return to Home page</string>
+    <string name="previous_post">Previous post</string>
+</resources>

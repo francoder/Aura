@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Аура</string>
+    <string name="refresh">Обновить</string>
+    <string name="save_picture">Сохранить изображение</string>
+    <string name="share_image">Поделиться изображением</string>
+    <string name="error_url_msg">Ошибка, возвращаемся на главную</string>
+    <string name="previous_post">Предыдущий пост</string>
+</resources>
