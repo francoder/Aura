@@ -14,3 +14,5 @@
 Оценивать посты в Ауре очень легко, просто листая ленту: те, что нравятся, можно смахивать вправо, остальные — влево. Публикации, которые понравились многим, быстро набирают популярность — люди увидят их в первую очередь.
 
 Вся информация взята с сайта [Яндекс. Аура](https://yandex.ru/aura/promo/)
+
+<a href="https://www.buymeacoffee.com/MVGTUfNJt" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
