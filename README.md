@@ -17,6 +17,6 @@
 
 <a href="https://www.buymeacoffee.com/MVGTUfNJt" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
-<a href="https://play.google.com/store/apps/details?id=com.yandex.myaura" target="_blank"><img src="https://seeklogo.net/wp-content/uploads/2016/09/get-it-on-google-play-preview.png" alt="Google Play" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://play.google.com/store/apps/details?id=com.yandex.myaura" target="_blank"><img src="https://freeiconshop.com/wp-content/uploads/edd/google-play-badge.png" alt="Google Play" style="height: auto !important;width: auto !important;" ></a>
 
 
