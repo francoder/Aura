@@ -1,7 +1,5 @@
 **Отдельное приложение-обёртка для нового продукта от Яндекс без лишних сервисов и потери производительности.**
 
-<a href="https://play.google.com/store/apps/details?id=com.yandex.myaura" target="_blank"><img src="http://broadcastshop.nl/media/catalog/product/cache/1/thumbnail/128x128/9df78eab33525d08d6e5fb8d27136e95/6/8/685_get_it_on_play_logo_large.png" alt="Google Play" style="height: auto !important;width: auto !important;" ></a>
-
 # Яндекс Аура
 Здесь общаются люди с похожими увлечениями и взглядами на жизнь.
 
@@ -15,5 +13,3 @@
 Оценивать посты в Ауре очень легко, просто листая ленту: те, что нравятся, можно смахивать вправо, остальные — влево. Публикации, которые понравились многим, быстро набирают популярность — люди увидят их в первую очередь.
 
 Вся информация взята с сайта [Яндекс. Аура](https://yandex.ru/aura/promo/)
-
-<a href="https://www.buymeacoffee.com/MVGTUfNJt" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
